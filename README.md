@@ -1,6 +1,7 @@
 # WEATHER_SYSTEM_IN_JAVA
 Weather Information System is a simple Java-based console application that fetches and displays real-time weather information for any city using the OpenWeatherMap API.
 It leverages Java's networking and I/O libraries to connect to a public API, parse the JSON response manually, and print color-coded weather details in the terminal.
+
 Features : 
 Fetches real-time weather data from OpenWeatherMap
 Displays:
